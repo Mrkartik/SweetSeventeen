@@ -1,0 +1,2 @@
+Undefined Reference to pow error occurs then run code with gcc -lm 
+-lm option will link your file to Math Library.
